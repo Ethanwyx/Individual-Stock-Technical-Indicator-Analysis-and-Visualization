@@ -1,0 +1,8 @@
+akshare
+numpy
+pandas
+TA-Lib
+matplotlib
+plotly
+streamlit
+seaborn
